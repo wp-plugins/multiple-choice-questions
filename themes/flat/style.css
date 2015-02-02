@@ -1,0 +1,145 @@
+@charset "utf-8";
+/* CSS Document */
+
+.mcq-main.flat {
+  margin: 0;
+  padding: 20px 0;
+}
+
+
+
+
+.mcq-main.flat .mcq-questions-list{
+  margin: 0;
+}
+
+.mcq-main.flat .questions-single {
+  list-style: outside none none;
+  margin: 30px 0;
+}
+.mcq-main.flat .question {
+  font-size: 15px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.mcq-main.flat .question-hint {
+  color: rgb(153, 153, 153);
+  font-size: 12px;
+  margin: 0;
+  padding: 5px 0;
+}
+
+
+.mcq-main.flat .ans-list {
+  margin: 15px 0 0 20px;
+}
+
+.mcq-main.flat .ans-single {
+  cursor: pointer;
+  font-size: 14px;
+  list-style: outside none none;
+  margin: 0;
+}
+
+.mcq-main.flat .ans-single label {
+  cursor: pointer;
+  display: inline-block;
+}
+
+.mcq-main.flat .mcq-submit {
+  background: none repeat scroll 0 0 rgb(64, 206, 97);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: inline-block;
+  margin: 10px 0;
+  padding: 4px 10px;
+}
+
+.mcq-main.flat .mcq-submit.loading {
+  background: url("images/loading.gif") no-repeat scroll 7px 8px rgb(64, 206, 97);
+  padding-left: 35px;
+}
+
+.mcq-main.flat .mcq-result {
+  margin: 15px 0;
+}
+
+.mcq-main.flat .mcq-result ul {
+  margin: 0;
+  padding: 0;
+}
+
+.mcq-main.flat .mcq-result li {
+  font-size: 12px;
+  list-style: outside none none;
+  margin: 0;
+  padding: 6px 0;
+}
+
+
+.mcq-main.flat .mcq-result .correct {
+  background: url("images/tik.png") no-repeat scroll 0 0 rgba(0, 0, 0,0);
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+  vertical-align: top;
+}
+
+.mcq-main.flat .mcq-result .incorrect{
+	background: url("images/cross.png") no-repeat scroll 0px 0px rgba(0, 0, 0,0);
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+  vertical-align: top;
+}
+
+
+
+.mcq-main.flat .mcq-result .point {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+
+.mcq-main.flat .mcq-result .failed {
+  color: rgb(250, 65, 22);
+  font-weight: bold;
+}
+
+.mcq-main.flat .mcq-result .pass {
+  color: rgb(64, 206, 97);
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

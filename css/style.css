@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*Admin CSS*/
+
+#mcq_metabox ul.mcq_bg_img_list{}
+
+#mcq_metabox ul.mcq_bg_img_list li {
+  display: inline-block;
+  margin: 5px;
+}
+#mcq_metabox ul.mcq_bg_img_list li.bg-selected {}
+
+#mcq_metabox ul.mcq_bg_img_list li img{border: 2px solid #ffffff;}
+
+#mcq_metabox ul.mcq_bg_img_list li.bg-selected img{
+  border: 2px solid #ff5a11;
+}
+
+.mcq-admin-questions{}
+
+.mcq-admin-questions .questions-list {
+  width: 100%;
+}
+
+.mcq-admin-questions .mcq-question {
+  width: 100%;
+}
+
+.mcq-admin-questions .mcq-ans-list {
+  margin: 20px 0 0 20px;
+}
+.mcq-admin-questions .add-ans {
+  margin-left: 20px !important;
+}
+
+
+.mcq-admin-questions .mcq-ans {
+  list-style: outside none inside;
+}
+
+
