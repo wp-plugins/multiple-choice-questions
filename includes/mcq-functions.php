@@ -39,7 +39,7 @@ function mcq_check_result()
 						echo '<i class="incorrect"></i>';	
 						$total_wrong_ans +=1;
 					}
-				echo 'Question '.$i .' : Your  Answer : '.$value.'<br />';
+				echo 'Question '.$i .' : Your  Answer : '.sanitize_text_field($value).'<br />';
 				echo '</li>';
 				$i++;
 			}

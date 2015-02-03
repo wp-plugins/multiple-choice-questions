@@ -16,7 +16,7 @@ jQuery(document).ready(function($)
 				$(".mcq_questions_ans:checked").each(function() {
 				
 				var qid = $(this).attr('qid');
-				ans[ qid ] = $(this).val();
+				ans[ qid ] = parseInt($(this).val());
 
 				});
 

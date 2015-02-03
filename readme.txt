@@ -12,11 +12,12 @@
 
 == Description ==
 
-An easy way to create Multiple Choice Questions form builder for your WordPress site, use via shortcode anywhere and unlimited. ajax basded submission and result.
+An easy way to create Multiple Choice Questions form builder for your WordPress site, use via shortcode anywhere and unlimited. ajax based submission and result.
 
 
 ### Multiple Choice Questions by http://paratheme.com
 
+* [Plugin Page!&raquo;](* [Live Demo!&raquo;](http://paratheme.com/demo/multiple-choice-questions/))
 * [Live Demo!&raquo;](http://paratheme.com/demo/multiple-choice-questions/)
 
 <br />

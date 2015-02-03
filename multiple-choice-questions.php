@@ -16,7 +16,7 @@ define('mcq_plugin_url', WP_PLUGIN_URL . '/' . plugin_basename( dirname(__FILE__
 define('mcq_plugin_dir', plugin_dir_path( __FILE__ ) );
 define('mcq_wp_url', 'https://wordpress.org/plugins/multiple-choice-questions/' );
 define('mcq_wp_reviews', 'http://wordpress.org/support/view/plugin-reviews/multiple-choice-questions' );
-define('mcq_pro_url','http://paratheme.com' );
+define('mcq_pro_url','http://paratheme.com/items/multiple-choice-questions-or-simple-quiz-form-builder-for-wordpress/' );
 define('mcq_demo_url', 'http://paratheme.com' );
 define('mcq_conatct_url', 'http://paratheme.com/contact' );
 define('mcq_qa_url', 'http://paratheme.com/qa/' );
