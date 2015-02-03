@@ -17,7 +17,8 @@ An easy way to create Multiple Choice Questions form builder for your WordPress 
 
 ### Multiple Choice Questions by http://paratheme.com
 
-* [Plugin Page!&raquo;](* [Live Demo!&raquo;](http://paratheme.com/demo/multiple-choice-questions/))
+
+* [Live Demo!&raquo;](http://paratheme.com/items/multiple-choice-questions-or-simple-quiz-form-builder-for-wordpress/)
 * [Live Demo!&raquo;](http://paratheme.com/demo/multiple-choice-questions/)
 
 <br />
